@@ -1,0 +1,7 @@
+{
+  "appName": "Dancore Engine",
+  "width": 1280,
+  "height": 720,
+  "renderer": "Vulkan",
+  "vsync": true
+}

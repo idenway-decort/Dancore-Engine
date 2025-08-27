@@ -1,0 +1,7 @@
+{
+  "windows": [
+    { "type": "MainWindow" },
+    { "type": "EditorWindow" },
+    { "type": "ViewportWindow" }
+  ]
+}

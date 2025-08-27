@@ -1,0 +1,11 @@
+build/
+*.o
+*.a
+*.so
+*.ninja
+/.idea
+/.vscode
+/build
+cmake_install.cmake
+CMakeCache.txt
+/compile_commands.json
